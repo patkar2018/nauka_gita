@@ -28,3 +28,5 @@ git commit -m "wpisujemy tekst " - wersja dla leniwych
 - nastepna wersja
 
 git pull - testowanie
+
+jeszcze jeden test
