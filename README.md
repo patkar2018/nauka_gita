@@ -26,3 +26,5 @@ git commit -m "wpisujemy tekst " - wersja dla leniwych
 
 :+1: jakos to idzie
 - nastepna wersja
+
+git pull - testowanie
