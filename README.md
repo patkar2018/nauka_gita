@@ -15,7 +15,7 @@ Plan na dzis:
 
  :+1: :+1: :+1: :+1:
 - :shipit:
-- to jest Andrzej  :alien:
+- to jest :alien:
 
 :older_man:
 
@@ -23,3 +23,5 @@ Plan na dzis:
 
 
 git commit -m "wpisujemy tekst " - wersja dla leniwych
+
+:+1: jakos to idzie
