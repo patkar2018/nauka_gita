@@ -16,3 +16,5 @@ Plan na dzis:
  :+1: :+1: :+1: :+1:
 - :shipit:
 - to jest Andrzej  :alien:
+
+:older_man:
