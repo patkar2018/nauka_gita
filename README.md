@@ -20,3 +20,6 @@ Plan na dzis:
 :older_man:
 
 ***trzeci test***
+
+
+git commit -m "wpisujemy tekst " - wersja dla leniwych
