@@ -30,3 +30,5 @@ git commit -m "wpisujemy tekst " - wersja dla leniwych
 git pull - testowanie
 
 jeszcze jeden test
+
+modyfikuje zmiany :)
